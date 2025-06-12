@@ -20,7 +20,7 @@ const Banner = () => {
   const containerRef = useRef<HTMLDivElement>(null);
   const scrollX = useRef(0);
   const isPaused = useRef(false);
-  const lastCenteredImg = useRef<HTMLImageElement | null>(null);
+  // const lastCenteredImg = useRef<HTMLImageElement | null>(null);
 
   // Add image scroll on mount
   useEffect(() => {

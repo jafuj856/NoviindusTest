@@ -82,7 +82,7 @@ function Way() {
             className="w-full  flex items-center overflow-x-auto scroll-smooth gap-6 min-h-[200px] pb-4 pt-2 px-2 scrollbar-hide md:max-w-[90%] !importent"
           >
             {/* <!-- Card 1 --> */}
-            <div className="carousel-card flex-shrink-0 w-64 rounded-md bg-drpColor p-4 relative min-h-[149px] w-[400px]">
+            <div className="carousel-card flex-shrink-0  rounded-md bg-drpColor p-4 relative min-h-[149px] w-[400px]">
               <h1 className="font-bold mb-4">English Grammar</h1>
               <p className="w-[75%]">
                 Master the building blocks of writing and communication.

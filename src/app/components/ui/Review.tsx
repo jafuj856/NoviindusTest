@@ -72,9 +72,9 @@ function Review() {
                 <!-- content --> */}
 
                 <p className="text-sm text-[#4E4E4E] mt-20">
-                  "Best decision for English tutoring! Educare improved our
+                  Best decision for English tutoring! Educare improved our
                   daughter's skills and instilled confidence. Recent high scores
-                  speak volumes. Thank you, Educare!”
+                  speak volumes. Thank you, Educare!
                 </p>
                 <div className="absolute bottom-0 p-5 w-[90%]">
                   <div className="flex items-center justify-between">
@@ -161,9 +161,9 @@ function Review() {
                 <!-- content --> */}
 
                 <p className="text-sm text-[#4E4E4E] mt-20">
-                  "Best decision for English tutoring! Educare improved our
+                  Best decision for English tutoring! Educare improved our
                   daughter's skills and instilled confidence. Recent high scores
-                  speak volumes. Thank you, Educare!”
+                  speak volumes. Thank you, Educare!
                 </p>
                 <div className="absolute bottom-0 p-5 w-[90%]">
                   <div className="flex items-center justify-between">
@@ -250,9 +250,9 @@ function Review() {
                 <!-- content --> */}
 
                 <p className="text-sm text-[#4E4E4E] mt-20">
-                  "Best decision for English tutoring! Educare improved our
+                  Best decision for English tutoring! Educare improved our
                   daughter's skills and instilled confidence. Recent high scores
-                  speak volumes. Thank you, Educare!”
+                  speak volumes. Thank you, Educare!
                 </p>
                 <div className="absolute bottom-0 p-5 w-[90%]">
                   <div className="flex items-center justify-between">
@@ -302,9 +302,9 @@ function Review() {
                 <!-- content --> */}
 
                 <p className="text-sm text-[#4E4E4E] mt-20">
-                  "Best decision for English tutoring! Educare improved our
+                  Best decision for English tutoring! Educare improved our
                   daughter's skills and instilled confidence. Recent high scores
-                  speak volumes. Thank you, Educare!”
+                  speak volumes. Thank you, Educare!
                 </p>
                 <div className="absolute bottom-0 p-5 w-[90%]">
                   <div className="flex items-center justify-between">
