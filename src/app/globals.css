@@ -1,0 +1,56 @@
+@import "tailwindcss";
+/* Reset and base styles */
+@theme {
+  --color-primary: #8a1538;
+}
+
+header {
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+body {
+  scrollbar-width: none;
+  -ms-overflow-style: none; /* IE 10+ */
+}
+
+/* For WebKit (Chrome, Safari, Edge) */
+body::-webkit-scrollbar {
+  display: none;
+}
+.logo {
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* scollImage Section */
+#scroller-container {
+  width: 100%;
+  max-width: 300px;
+  overflow: hidden;
+  position: relative;
+}
+
+#scroller {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  transition: transform 0.2s linear;
+  scrollbar-width: none;
+}
+
+.scroll-image {
+  width: 100px;
+  height: 100px;
+  margin: 0 10px;
+  opacity: 0.6;
+  transition: opacity 0.3s ease;
+}
+/* heading banner */
+.fade {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.fade-out {
+  opacity: 0;
+}
